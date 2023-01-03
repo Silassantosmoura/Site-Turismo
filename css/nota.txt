@@ -1,0 +1,18 @@
+----------------------------------
+#fad889 
+#80b3ff azul
+#b1e1e9 azul 
+
+#7c859b
+#f5f5f5 branco
+#F2F2F2 branco2
+#8697A6 cinza
+#485059 cinza escuro
+#261F20 preto bonito
+#c9e5af verde 
+#dceeb1 verde
+#839cb5 azul escuro
+#f2e4f9 rosa 
+#3b3f49 preto
+#686466 preto
+

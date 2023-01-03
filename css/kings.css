@@ -1,0 +1,98 @@
+  @font-face {
+    font-family: 'gobo';
+    src: url(fonts/gobold/Gobold\ Bold.otf);
+  }
+  @font-face {
+    font-family: 'deep';
+    src: url(fonts/deep_shadow/Deep\ Shadow.ttf);
+  }
+  @font-face {
+    font-family: 'desi';
+    src: url(fonts/designer/DESIGNER.otf);
+  }
+  @font-face {
+    font-family: 'extra';
+    src: url(fonts/extra_old/ExtraOld_PERSONAL_USE_ONLY.otf);
+  }
+  @font-face {
+    font-family: 'ropest';
+    src: url(fonts/ropest/Ropest_PERSONAL_USE_ONLY.ttf);
+  }
+  @font-face {
+    font-family: 'hello';
+    src: url(fonts/hello/Hello.otf);
+  }
+  @font-face {
+    font-family: 'louis';
+    src: url(fonts/louis_george_caf/Louis\ George\ Cafe.ttf);
+  }
+  @font-face {
+    font-family: 'love';
+    src: url(fonts/lovestory/lovestory.ttf);
+  }
+
+  .ima{
+    position: absolute;
+  }
+  h1{
+    font-family: gobo;
+    color: #C0B283;
+  }
+  p{
+
+    font-family: louis;
+    font-size: 25px;
+    color: #373737;
+  }
+  .b{
+    opacity: 0.9;
+  }
+
+  .gold{
+    color: #C0B283;
+  }
+  .silk{
+    color: #DCD0C0;
+  }
+  .paper{
+    color: #F4F4F4;
+  }
+  .charcoal{
+    color: #373737;
+  }
+  
+  .bg-gold{
+    background-color: #C0B283;
+  }
+  .bg-silk{
+    background-color: #DCD0C0;
+  }
+  .bg-paper{
+    background-color: #F4F4F4;
+  }
+  .bg-charcoal{
+    background-color: #373737;
+  }
+
+ :hover.h{
+  opacity: 0.7;
+  transform: scale(1.05);
+  transition: 500ms linear; 
+  }
+  
+  .h{
+  opacity: 1;
+  transform: scale(1);
+  transition: 500ms linear; 
+  }
+
+  hr{
+    border: 0; 
+    height: 0;
+    border-bottom: 1px dashed #C0B283; 
+    margin: 25px 0;
+  }
+
+  .back{
+    background-size: 2000px;
+  }
